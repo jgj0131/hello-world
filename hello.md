@@ -47,7 +47,7 @@
 ## 커밋 덮어쓰기
 
 - 필요하다면 옵션에서 이전 커밋 덮어쓰기도 가능
-- 'commit --apend'
+- 'commit --amend'
 - 이미 push를 한 경우 'push --force'가 필요함
 
 ## stash
